@@ -1,5 +1,5 @@
 [package]
-name = "hello"
+name = "bitonic-sorter"
 version = "0.1.0"
 authors = ["naosuke <info@naosuke.me>"]
 edition = "2018"
